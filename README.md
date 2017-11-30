@@ -1,6 +1,6 @@
-# Angular4TrainingInapp
+# Angular4 Training Inapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.8.
+Generated using Angular CLI 1.4.8.
 
 ## Development server
 
