@@ -19,6 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "inapp",
       "styles": [
+        "../node_modules/milligram/dist/milligram.css",
         "styles.css"
       ],
       "scripts": [],
